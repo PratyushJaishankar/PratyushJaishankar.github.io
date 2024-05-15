@@ -24,7 +24,7 @@ const Navbar = () => {
   }, []);
 
   return (
-    <nav className={`fixed top-0 left-0 right-0 z-10 flex justify-between items-center p-4 shadow-md bg-gray-900 text-white ${scrolling ? 'opacity-0' : 'opacity-100 transition-opacity'}`}>
+    <nav className={`fixed top-0 left-0 right-0 z-10 flex justify-between items-center p-4 shadow-md bg-gray-900 text-white }`}>
       <div className="mr-4">
         <Link href="/">
           <div className="cursor-pointer">

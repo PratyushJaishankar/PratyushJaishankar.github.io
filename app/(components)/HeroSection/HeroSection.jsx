@@ -12,7 +12,7 @@ const HeroSection = () => {
           className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded transition-opacity delay-1500 opacity-100"
         //   onClick={handleDownloadClick}
         >
-        <a href="/Report.pdf" download="cv">Download CV</a>
+        <a href="/PratyushJaishankarResume.pdf" download="cv">Download CV</a>
         </button>
       </div>
     </div>
